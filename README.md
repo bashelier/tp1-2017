@@ -20,7 +20,27 @@ Comme vous allez le découvrir, pour conserver vos réalisations et permettre à
 
 #### Création d'un compte Github
 
-Rendez-vous sur la page d'accueil de [github](https://github.com/). 
+Rendez-vous sur la page d'accueil de [github](https://github.com/) :
+
+![](src/main/resources/assets/ecran_d_accueil.png)
+
+Dans le coin supérieur droit cliquer sur "Sign Up". Dans la page qui apparait, inscrivez votre nom d'utilisateur (il doit être composé de votre prénom et de votre nom spéparé par le caractere '-'). 
+Dans le champs "Email Adress" mettre votre adresse universitaire (important pour bénéficier des avantages liés à votre statut d'étudiant). 
+
+![](src/main/resources/assets/join_github2.png)
+
+Une fois le mot de passe renseigné cliquer sur le bouton "Create Account". Sur l'écran suivant, vous n'avez rien à changer et pouvez directement cliquer sur "Continue".
+![](src/main/resources/assets/welcom_to_github.png)
+
+Le troisième et dernier écran d'enregistrement vous demande des informations sur votre profil. Indiquer principalement que vous êtes un étudiant et que vous comptez utiliser github pour des projets étudiants.
+![](src/main/resources/assets/welcom_to_github2.png)
+
+Une fois ces informations renseignées vous pouvez cliquer sur "Submit" pour définitivement créer votre compte.
+
+![](src/main/resources/assets/dashboard_github.png)
+
+#### Paramétrage de votre compte Github
+
 
 #### Configuration et prise en main de Git
 
