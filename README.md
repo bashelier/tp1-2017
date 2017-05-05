@@ -84,7 +84,7 @@ il peut arriver que ça puisse prendre plus de temps donc pas d'inquiétude.
 
 #### Configuration locale de Git
 Pour commencer avec Git, nous utilisons directement la version en ligne de commande. Comme vous les verrez rapidement, 
-il existe un  plétore d'outils pour faciliter l'utilisation de Git mais pour s'en servir, il vaut mieux comprendre les 
+il existe une  pléthore d'outils pour faciliter l'utilisation de Git mais pour s'en servir, il vaut mieux comprendre les 
 commandes sous-jacentes.
 
 La première chose à faire avant d'utiliser Git est de correctement le configurer. Cette étape en pratique peut prendre 
@@ -123,7 +123,7 @@ l'une après l'autre, les possibilités de ces outils.
 
 Ce tutoriel prend la forme d'une application de bureau appelée **[Git-It](https://github.com/jlord/git-it-electron)**. 
 Cette application est multi-plateforme et pourra donc être utilisée indifférement sur les ordinateurs du département ou 
-le votre. Elle contient des défis pour l'apprentissage, en utilisant vraiment Git et GitHub, pas des émulateurs. 
+le vôtre. Elle contient des défis pour l'apprentissage, en utilisant vraiment Git et GitHub, pas des émulateurs. 
 Vous apprendrez la géniale ligne de commande (et pas si effrayante) et GitHub, ce qui signifie que lorsque 
 vous terminerez tous les défis, vous aurez de vrais dépôts sur votre compte GitHub et vos carrés verts comme les grands 
 sur votre tableau de contribution.
